@@ -48,6 +48,12 @@ Upload and process entire documents with AI-powered features.
 
 ---
 
+## 🌐 Live Demo
+
+**Try it now without installation!** 👉 [**https://nlpsimpledemobykhoi.streamlit.app/**](https://nlpsimpledemobykhoi.streamlit.app/)
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
